@@ -1,0 +1,22 @@
+# Eclipse
+.classpath
+.project
+.settings/
+.springBeans
+bin/
+
+# Intellij
+.idea/
+*.iml
+*.eml
+*.iws
+
+# Log files
+*.log
+
+# config files
+.orig
+*.ear
+
+/build/
+/target/
